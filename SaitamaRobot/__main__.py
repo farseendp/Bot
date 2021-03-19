@@ -81,7 +81,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/73a9b1c2b95026e94158f.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/331a5ee7ab4b93e2b17ae.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Starla is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
@@ -214,13 +214,13 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                          InlineKeyboardButton(
                             text=" ⚡️ Creator ",
-                             url="https://t.me/imjerin")        
+                             url="https://t.me/Farseen_king_of_telegram")        
                        
                      ],
                      [
                         InlineKeyboardButton(
                              text=" ❤️ Source Code ",
-                             url="https://github.com/jerinjohny-ktnm/bot")
+                             url="https://https://t.me/joinchat/Jhp2gINqm8RhNTc1")
                     
                     ]]))
     else:
