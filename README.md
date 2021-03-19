@@ -37,7 +37,7 @@ Add any ffmpeg heroku buildpack to enable the song plugin.
 Eg. https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/bot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farseendp/bot.git)
 
 </details>  
 <details>
